@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\bin\Debug\net8.0-windows\SeatleWalkingTour.exe
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\bin\Debug\net8.0-windows\SeatleWalkingTour.deps.json
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\bin\Debug\net8.0-windows\SeatleWalkingTour.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\bin\Debug\net8.0-windows\SeatleWalkingTour.dll
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\bin\Debug\net8.0-windows\SeatleWalkingTour.pdb
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.frmSeattle.resources
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.dll
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\refint\SeatleWalkingTour.dll
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.pdb
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\ref\SeatleWalkingTour.dll
+C:\Users\HELLO\Source\Repos\SeatleWalkingTour\obj\Debug\net8.0-windows\SeatleWalkingTour.Resources.resources
